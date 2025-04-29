@@ -20,8 +20,7 @@ Check out the live version of the project:
 - Responsive Design
 - Backend (though not active, working on login and user dashboard)
 
-### [Add Another Project Here]
-[Details about other projects, if applicable.]
+
 
 ## About Me
 - I'm passionate about web development and learning new technologies.
@@ -29,13 +28,12 @@ Check out the live version of the project:
 
 ## Skills
 - Front-end: HTML, CSS, JavaScript
-- Back-end: [If applicable, add any backend technologies you're working with]
+- Back-end: [learnig]
 - Version Control: Git & GitHub
 
 ## Contact
 You can reach me via:
-- **LinkedIn**: [Add LinkedIn link]
-- **Email**: [Add your email]
+- **Email**: [mishrasamiksha951@gmail.com]
 
 ## License
 This portfolio is licensed under the MIT License.
